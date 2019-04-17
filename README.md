@@ -3,6 +3,7 @@
 Studycards is a Java application to learn with the flashcard system. 
 
 You can download the application [here](./StudyCards.jar)
+A guide in French can be found [here](./StudyCards-Manuel_utilisateur.pdf)
 
 ## Home Page
 
@@ -26,7 +27,7 @@ This application has several themes.
 
 
 
-##Statistics Page
+## Statistics Page
 
 
 
