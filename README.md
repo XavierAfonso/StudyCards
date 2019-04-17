@@ -1,6 +1,6 @@
-#StudyCards
+# StudyCards
 
-Studycards is a java application to learn with the flashcard system. 
+Studycards is a Java application to learn with the flashcard system. 
 
 You can download the application [here](./studycards.jar)
 
